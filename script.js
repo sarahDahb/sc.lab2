@@ -1,5 +1,5 @@
 const button = document.getElementById("mainButton");
 
 button.addEventListener("click", function () {
-    alert(ضغط على الزر!");
+    alert("اضغط عندي ");
 });
